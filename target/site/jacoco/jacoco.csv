@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+my-app,org.example,State,0,27,0,0,0,1,0,1,0,1
+my-app,org.example,TicTacToeCell,0,52,0,0,0,16,0,6,0,6
+my-app,org.example,Game,0,583,5,105,0,94,5,57,0,7
+my-app,org.example,Program,32,0,0,0,7,0,2,0,2,0
+my-app,org.example,Player,0,3,0,0,0,1,0,1,0,1
+my-app,org.example,Utility,3,56,0,6,1,15,1,6,1,3
+my-app,org.example,TicTacToePanel,172,88,14,0,28,18,8,2,1,2
